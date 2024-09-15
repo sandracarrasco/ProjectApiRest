@@ -1,7 +1,6 @@
 package reqres.actions;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.response.Response;
-
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
